@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hee Suh 👋
 
 <!--
 **0hee0/0hee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=0hee0.0hee0)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0hee0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
