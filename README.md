@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=0hee0.0hee0)
 
-- 🔭 I’m currently working on my first web project
+- 🔭 I’m currently working 2021 DSC Solution Challenge
 - 🌱 I’m currently learning React
-- 📫 How to reach me: Email [✉](mailto:suhee0206@gmail.com)
+- 📫 How to reach me: ✉ [Email](mailto:suhee0206@gmail.com)
 - ⚡ Fun fact: ❤☕&🎾
 
 <h3 align="left">Connect with me:</h3>
