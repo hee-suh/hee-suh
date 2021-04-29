@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       38 mins         ███████████████▓░░░░░░░░░   62.06 % 
+JSON         19 mins         ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 <!--END_SECTION:waka-->
 
