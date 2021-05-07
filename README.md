@@ -36,11 +36,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++          3 hrs 2 mins    ███████████████░░░░░░░░░░   59.83 % 
-Python       1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.41 % 
-JSON         40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Text         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+C++    3 hrs 2 mins    ████████████████████████▒   97.27 % 
+JSON   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
