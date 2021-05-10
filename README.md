@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++    6 hrs 39 mins   ████████████████████████▓   99.03 % 
-JSON   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+C++    3 hrs 54 mins   █████████████████████████   99.47 % 
+JSON   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 
