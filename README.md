@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.59 % 
-JavaScript   46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 % 
-C++          43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-C            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Python       2 hrs 35 mins   █████████████████░░░░░░░░   67.54 % 
+JavaScript   46 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+C++          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Git Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Java         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 <!--END_SECTION:waka-->
 
