@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=0hee0.0hee0)
 
-- 🔭 I’m currently working 2021 DSC Solution Challenge <br/>
-  ![Suh Hee Solution Challenge Certificate.pdf](https://github.com/0hee0/0hee0/files/6643457/Suh.Hee.Solution.Challenge.Certificate.pdf)
+- 🔭 I’m currently working 2021 DSC Solution Challenge
+<img src="https://user-images.githubusercontent.com/53266682/121799393-d52a9400-cc66-11eb-9522-f0a108439595.png" alt="Suh Hee Solution Challenge Certificate" width="400" />
+
 - 🌱 I’m currently learning React
 - 📫 How to reach me: ✉ [Email](mailto:suhee0206@gmail.com)
 - ⚡ Fun fact: ❤ 📸&☕&🎾
