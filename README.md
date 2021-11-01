@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0hee0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   30 hrs 26 mins  █████████████████████████   99.84 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+```
 <!--END_SECTION:waka-->
 
 
