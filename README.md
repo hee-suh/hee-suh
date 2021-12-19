@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 hrs 11 mins   ██████████████████████▓░░   90.28 % 
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
 
