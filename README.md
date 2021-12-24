@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - `Web Application`
 
 ### 🌱 I’m currently learning 
-- `computer vision`
+- `NLP`
 
 ### 🌟 Languages & Frameworks / Library
 - JavaScript & React.js (Intermediate)
