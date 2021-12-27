@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 33 mins   ███████████████████████░░   91.40 % 
-Python       42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JavaScript   4 hrs 33 mins   ████████████████████████░   96.12 % 
+Python       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
 
