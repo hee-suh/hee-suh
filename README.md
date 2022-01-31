@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning 
 - `NLP`
+- `TypeScript`
 
 ### 🌟 Languages & Frameworks / Library
 - JavaScript & React.js (Intermediate)
