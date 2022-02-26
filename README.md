@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   12 hrs 25 mins  ███████████████████████▒░   93.25 % 
-JSON         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript   12 hrs 56 mins  ███████████████████████▓░   95.00 % 
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
