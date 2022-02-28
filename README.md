@@ -39,12 +39,14 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0hee0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   12 hrs 56 mins  ███████████████████████▓░   95.00 % 
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript   12 hrs 3 mins   ███████████████████████▓░   94.56 %
+JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
+
 <!--END_SECTION:waka-->
 
 
