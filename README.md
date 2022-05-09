@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0hee0&count_bg=%239C27B0&title_bg=%23555555&icon=&icon_color=%239C27B0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 👩🏻‍💻 I’m currently working on 
-- `Mobile Application`
 - `Web Application`
 
 ### 🌱 I’m currently learning 
-- `React Native`
-- `NLP`
+- `PS`
 
 ### 🌟 Languages & Frameworks / Library
 - JavaScript & React.js (Intermediate)
@@ -38,12 +36,12 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0hee0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 
 ```text
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 
