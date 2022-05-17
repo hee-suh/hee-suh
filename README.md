@@ -19,14 +19,24 @@ Here are some ideas to get you started:
 
 ### 👩🏻‍💻 I’m currently working on 
 - `Web Application`
+- `Mobile Application`
 
+<!--
 ### 🌱 I’m currently learning 
 - `PS`
+-->
 
-### 🌟 Languages & Frameworks / Library
-- JavaScript & React.js (Intermediate)
-- JavaScript & Node.js (Novice)
-- Python & Tensorflow (Novice)
+### 🌟 Languages
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### 💡 Frameworks / Library
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 📫 How to reach me 
 - [✉](mailto:suhee0206@gmail.com) suhee0206@gmail.com
