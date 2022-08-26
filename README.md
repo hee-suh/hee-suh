@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ### 👩🏻‍💻 I’m currently working on 
 - `Web Application`
-- `Mobile Application`
 
 <!--
 ### 🌱 I’m currently learning 
