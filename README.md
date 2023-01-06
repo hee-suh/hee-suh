@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0hee0&count_bg=%239C27B0&title_bg=%23555555&icon=&icon_color=%239C27B0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 ### 👩🏻‍💻 I’m currently working on 
 - `Web Application`
@@ -33,13 +33,14 @@ Here are some ideas to get you started:
 ### 💡 Frameworks / Library
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 📫 How to reach me 
-- [✉](mailto:suhee0206@gmail.com) suhee0206@gmail.com
-- <a href="https://linkedin.com/in/suhee0206@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suhee0206@gmail.com" height="20" width="20" /> linkedin</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhee0206@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%9D%AC-%EC%84%9C-95b600187/)
 
 #### ⚡ Fun fact: 💜 📸 & 🎾 & 🍷
 
