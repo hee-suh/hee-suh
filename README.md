@@ -42,9 +42,18 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhee0206@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%9D%AC-%EC%84%9C-95b600187/)
 
+<!--
+
 #### ⚡ Fun fact: 💜 📸 & 🎾 & 🍷
 
+-->
+
+<!--
+
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hee-suh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+-->
+
 
 <!--START_SECTION:waka
 
